@@ -1,4 +1,0 @@
-function [T] = Tfunk(n,t,z,a)
-    T=a*exp(-(n*pi/2).^2*t);
-end
-
